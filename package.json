@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "cloudflare-worker-starter",
+  "version": "1.0.0",
+  "description": "Clone this repo to build a Cloudflare Worker which only allows requests from approved origins.",
+  "main": "index.js",
+  "author": "Paul Shryock <paul@pshry.com>"
+}

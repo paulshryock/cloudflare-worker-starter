@@ -1,0 +1,12 @@
+name = "cloudflare-worker-development"
+type = "javascript"
+account_id = "5f98a1942bc57012fa388994a2307422"
+workers_dev = true
+# zone_id = ""
+# route = ""
+
+# [env.staging]
+# name = "cloudflare-worker-staging"
+
+# [env.production]
+# name = "cloudflare-worker"
