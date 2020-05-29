@@ -9,6 +9,7 @@ addEventListener('fetch', event => {
 async function handleRequest(request) {
 
   // Define allowed domain origins
+  // TODO: Replace these with environment variables
   const allowed = [
     'https://newprojectstarterkit.com',
     'https://pshry.com'
